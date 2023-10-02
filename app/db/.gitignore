@@ -2,3 +2,7 @@
 *
 # Except this file
 !.gitignore
+
+# Ignore node modules in client directory
+node_modules
+
